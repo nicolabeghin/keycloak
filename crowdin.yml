@@ -1,5 +1,5 @@
 files:
-  - source: admin-messages_en.properties
+  - source: themes/src/main/resources/theme/base/admin/**/admin-messages_en.properties
     translation: '%original_path%/admin-messages_%two_letters_code%.properties'
-  - source: messages_en.properties
+  - source: themes/src/main/resources/theme/base/admin/**/messages_en.properties
     translation: '%original_path%/messages_%two_letters_code%.properties'
